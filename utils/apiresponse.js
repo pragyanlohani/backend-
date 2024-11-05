@@ -5,3 +5,4 @@ class apiresponse {
     this.success= this.success
     this.success=statuscode
 }}
+export{apiresponse}

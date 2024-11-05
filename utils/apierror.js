@@ -23,3 +23,5 @@ class apiError extends error {
         }
     }
 }
+
+export{apiError}
